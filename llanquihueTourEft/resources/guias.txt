@@ -1,0 +1,2 @@
+44444444-4;Carlos Muñoz;987654111;carlos@gmail.com;Libertad;450;Puerto Montt;Los Lagos;Turismo Aventura
+55555555-5;Ana Torres;976543210;ana@gmail.com;Los Carrera;560;Puerto Varas;Los Lagos;Turismo Cultural

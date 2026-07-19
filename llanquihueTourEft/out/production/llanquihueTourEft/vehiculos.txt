@@ -1,0 +1,3 @@
+ABCD11;Toyota;Yaris;12
+EFGH22;Hyundai;Accent;10
+IJKL33;Mercedes;Sprinter;18

@@ -1,0 +1,3 @@
+14131621-1;Juan Pérez;987654321;juan@gmail.com;Los Alerces;123;Puerto Montt;Los Lagos;2
+19227282-4;María Soto;912345678;maria@gmail.com;Las Rosas;456;Puerto Varas;Los Lagos;1
+15634123-3;Pedro Díaz;998877665;pedro@gmail.com;San Martín;78;Frutillar;Los Lagos;4

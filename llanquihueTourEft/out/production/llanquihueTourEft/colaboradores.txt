@@ -1,0 +1,2 @@
+66666666-6;Luis Gómez;965432111;luis@gmail.com;O'Higgins;210;Llanquihue;Los Lagos;Transportes Sur
+77777777-7;Patricia Rojas;954321222;patricia@gmail.com;Prat;105;Puerto Octay;Los Lagos;Hotel Patagonia
