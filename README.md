@@ -25,50 +25,41 @@ Toda la información es cargada automáticamente desde archivos `.txt`.
 ---
 
 ## Estructura del proyecto
-src
+
+```text
+LlanquihueTour/
 │
-├── app
-│ └── Main.java
+├── src/
+│   ├── app/
+│   │   └── Main.java
+│   │
+│   ├── data/
+│   │   └── GestorEntidades.java
+│   │
+│   ├── interfaces/
+│   │   └── Registrable.java
+│   │
+│   ├── model/
+│   │   ├── Persona.java
+│   │   ├── Cliente.java
+│   │   ├── GuiaTuristico.java
+│   │   ├── ColaboradorExterno.java
+│   │   ├── Direccion.java
+│   │   ├── Vehiculo.java
+│   │   ├── Tour.java
+│   │   └── Reserva.java
+│   │
+│   └── utils/
+│       └── LeerArchivos.java
 │
-├── data
-│ └── GestorEntidades.java
-│
-├── interfaces
-│ └── Registrable.java
-│
-├── model
-│ ├── Persona.java
-│ ├── Cliente.java
-│ ├── GuiaTuristico.java
-│ ├── ColaboradorExterno.java
-│ ├── Direccion.java
-│ ├── Vehiculo.java
-│ ├── Tour.java
-│ └── Reserva.java
-│
-└── utils
-└── LeerArchivos.java
-
-resources
-├── clientes.txt
-├── guias.txt
-├── colaboradores.txt
-├── vehiculos.txt
-├── tours.txt
-└── reservas.txt
-
-
----
-
-## Tecnologías utilizadas
-
-- Java
-- IntelliJ IDEA
-- JOptionPane
-- BufferedReader
-- ArrayList
-
----
+└── resources/
+    ├── clientes.txt
+    ├── guias.txt
+    ├── colaboradores.txt
+    ├── vehiculos.txt
+    ├── tours.txt
+    └── reservas.txt
+```
 
 ## Conceptos aplicados
 
